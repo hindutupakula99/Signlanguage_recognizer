@@ -1,0 +1,22 @@
+response_dict = {
+    'i': ["Tell me more about yourself.", "What's on your mind?", "Anything interesting about yourself?"],
+    'you': ["How are you feeling right now?", "Tell me about your day.", "What's on your mind?"],
+    'he': ["Is there something specific you want to know about him?", "Tell me more about him.", "What brings him to your thoughts?"],
+    'she': ["What's on her mind?", "Tell me more about her.", "Anything interesting about her?"],
+    'deaf': ["How can I help you communicate better?", "Is there anything specific you'd like assistance with?", "Let's improve our communication."],
+    'hearing': ["Great! How is your hearing today?", "Tell me about your experiences with hearing.", "Is there anything you'd like to share about your hearing?"],
+    'teacher': ["Are you a student or looking for information about teaching?", "Tell me about your experiences with teaching.", "Is there anything specific you'd like to know about teaching?"],
+    'welcome': ["Welcome! How can I assist you today?", "It's great to have you here! How can I help?", "Is there anything specific you're looking for?"],
+    'howareyou': ["I'm just a program, but thanks for asking! How can I help you?", "I don't have feelings, but I'm here to assist you. What do you need?", "Is there anything specific you'd like to talk about?"],
+    'name': ["What's your name?", "Tell me more about yourself.", "Is there a story behind your name?"],
+    'home': ["Home is where the heart is. Do you have any specific questions about home?", "Tell me about your favorite things at home.", "Is there anything you'd like to share about your home life?"],
+    'food': ["Food is delightful! Do you have a favorite dish?", "Tell me about your favorite cuisine.", "Is there a specific food you'd like to talk about?"],
+    'sleep': ["Getting enough sleep is important. Are you having any sleep-related concerns?", "Tell me about your sleep routine.", "Is there anything you'd like to discuss regarding sleep?"],
+    'areyouokay': ["I'm just a computer program, but thanks for asking! How can I assist you today?", "I don't have feelings, but I'm here to help. What do you need?", "Is there anything specific on your mind?"],
+    'happy': ["I'm glad you're happy!", "It's wonderful to hear that you're happy!", "What's making you feel happy today?"],
+    'confused': ["If you're feeling confused, let's try to clarify things.", "I'm here to help if things seem confusing.", "Let's work together to clear up any confusion."],
+    'cold': ["Stay warm!", "Is the weather getting chilly? Dress warmly!", "Cold weather calls for cozy blankets!"],
+    'right': ["That's great! You're on the right track.", "Fantastic! Keep up the good work.", "You're doing well!"],
+    'wrong': ["No worries! Mistakes happen, and it's an opportunity to learn.", "Mistakes are part of the learning process. What can we learn from this?", "Don't be too hard on yourself. Mistakes are a natural part of life."],
+    'iamfine': ["I'm glad to hear that you're fine. Anything specific you want to talk about?", "It's great that you're feeling fine! How can I assist you today?", "If you're fine, that's wonderful! Is there anything on your mind?"]
+}
